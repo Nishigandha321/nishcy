@@ -1,2 +1,0 @@
-# nishcy
-GenAI workshop
